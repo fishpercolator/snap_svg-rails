@@ -14,7 +14,7 @@ And then execute:
     
 Add the JS to your application.js:
 
-    //= require snap.svg
+    //= require snap_svg
 
 
 ## Usage
